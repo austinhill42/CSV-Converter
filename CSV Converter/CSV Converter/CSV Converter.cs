@@ -57,7 +57,7 @@ namespace CSV_Converter
                     csv.Add(l.Split(',').ToList());
                 }
 
-                foreach (string l in csv[0])
+                foreach (string l in csv[0].ToList())
                 {
                     switch (l)
                     {
