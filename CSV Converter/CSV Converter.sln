@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSV Converter", "CSV Converter\CSV Converter.csproj", "{0CB6378B-8141-4D8C-ACFE-6F2857B87C97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CB6378B-8141-4D8C-ACFE-6F2857B87C97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CB6378B-8141-4D8C-ACFE-6F2857B87C97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CB6378B-8141-4D8C-ACFE-6F2857B87C97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CB6378B-8141-4D8C-ACFE-6F2857B87C97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03CF15EF-7A44-4E36-8B93-0B776733D5D0}
+	EndGlobalSection
+EndGlobal
